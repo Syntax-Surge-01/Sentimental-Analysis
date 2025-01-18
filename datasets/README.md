@@ -1,1 +1,2 @@
-
+- **AI-Hackathon-test-data-set.csv** is the unprocessed data that we got from the hackathon.
+- **output_data_cleaned.csv** is the processed & cleaned file.
